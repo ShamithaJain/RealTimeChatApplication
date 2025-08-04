@@ -16,25 +16,3 @@ git clone https://github.com/your-username/chatbot.git
 cd chatbot
 npm install
 node server.js
-
-Then open http://localhost:4000 in your browser.
-
-Usage
-Open the app in two browser tabs
-
-Enter different usernames when prompted
-
-Start chatting in realtime!
-
-Project Structure
-
-chatbot/
-├── public/
-│   ├── client.js
-│   ├── style.css
-│   └── wassup.jpeg
-├── index.html
-├── server.js
-├── package.json
-├── .gitignore
-└── README.md
