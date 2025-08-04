@@ -35,5 +35,5 @@ Save the file.
 
 ## Screenshots
 
-![Chat Screenshot](./chat.png)
+![Chat Screenshot](./Chat.png)
 
